@@ -17,7 +17,7 @@ get_auth_info <- function(access_key, auth_name) {
   q_result <- GET(paste0("http://api.serpstack.com/search?access_key=", access_key, 
                          "&query=", my_query, "+place+of+birth"))
   # extract answer box text
-  content(q_result, "parsed")$answer_box$answers[[1]]$answer
+  print(content(q_result, "parsed")$answer_box$answers[[1]]$answer)
 }
 
 # note - can also try "birthplace" to get something more mapable, but might have sparser results
@@ -28,3 +28,11 @@ get_auth_info <- function(access_key, auth_name) {
 
 # read in goodreads data
 books <- read.csv("~/Box_Sync/book-tracking/goodreads_library_export.csv", stringsAsFactors = FALSE)
+
+for (i in 1:nrow(books)) {
+  author <- books$Author[i]
+  print(author)
+  auth_pob <- get_auth_info(access_key, author)
+  books$Auth_POB[i] <- auth_pob 
+}
+
