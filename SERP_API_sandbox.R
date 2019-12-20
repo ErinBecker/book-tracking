@@ -16,23 +16,34 @@ get_auth_info <- function(access_key, auth_name) {
   # build query url
   q_result <- GET(paste0("http://api.serpstack.com/search?access_key=", access_key, 
                          "&query=", my_query, "+place+of+birth"))
-  # extract answer box text
-  print(content(q_result, "parsed")$answer_box$answers[[1]]$answer)
+  
+  if (q_result$status_code == 200) {
+    
+    # check if answer box text is NULL
+    if (is.null(content(q_result, "parsed")$answer_box$answers[[1]]$answer)) {
+      print("unknown") }
+    
+    # extract answer box text
+    else print(content(q_result, "parsed")$answer_box$answers[[1]]$answer)
+  }
+  
 }
-
-# note - can also try "birthplace" to get something more mapable, but might have sparser results
-# also some people will have more than one nationality result (e.g. Abraham Joshua Heschel)
-# currently returns NULL if more than one nationality - want to do a check for dimensionality of
-# the answer box first
-# also add check for status of query and stop if bad
 
 # read in goodreads data
 books <- read.csv("~/Box_Sync/book-tracking/goodreads_library_export.csv", stringsAsFactors = FALSE)
 
-for (i in 1:nrow(books)) {
-  author <- books$Author[i]
+# get list of unique authors to minimize number of queries
+unique_authors <- unique(books$Author)
+# create df to store author info
+author_df <- data.frame("author" = unique_authors) 
+# keep author names as character
+author_df$author <- as.character(author_df$author)
+
+for (i in 1:nrow(author_df)) {
+  author <- author_df$author[i]
   print(author)
   auth_pob <- get_auth_info(access_key, author)
-  books$Auth_POB[i] <- auth_pob 
+  author_df$auth_POB[i] <- auth_pob 
 }
 
+write.csv(author_df, "author_df.R", row.names = FALSE, quote = FALSE)
