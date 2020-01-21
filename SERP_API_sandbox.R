@@ -5,6 +5,8 @@
 # https://serpstack.com/documentation
 
 library(httr)
+library(ggmap)
+library(dplyr)
 
 # I should update my access key and then make it private and not keep it in the script
 # but right now it's not attached to billing info so I don't care
@@ -45,5 +47,26 @@ for (i in 1:nrow(author_df)) {
   auth_pob <- get_auth_info(access_key, author)
   author_df$auth_POB[i] <- auth_pob 
 }
+# comma within POB messed up columns, in next run, change to quote = TRUE
+write.csv(author_df, "author_df.csv", row.names = FALSE, quote = FALSE)
 
-write.csv(author_df, "author_df.R", row.names = FALSE, quote = FALSE)
+# read in author dataframe
+author_df <- read.csv("author_df.csv", stringsAsFactors = FALSE)
+author_df <- transform(author_df, newcol = paste(auth_POB1, auth_POB2, sep=","))
+# string line terminal commas
+author_df$newcol <- gsub("(*),$", "\\1", author_df$newcol)
+# cleanup
+author_df$auth_POB1 <- NULL
+author_df$auth_POB2 <- NULL
+colnames(author_df) <- c("author", "POB")
+
+# take only authors with known POB
+author_df <- filter(author_df, POB != "unknown")
+
+
+# mapping
+# first register your google API key with
+# register_google(key = "YOUR KEY HERE", write = TRUE)
+# how to get a key instructions here: https://developers.google.com/maps/documentation/javascript/get-api-key
+
+locations_df <- mutate_geocode(author_df, POB)
