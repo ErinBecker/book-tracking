@@ -82,5 +82,16 @@ extract_time_period <- function(data, start_date, end_date) {
                    filter(Date.Read <= end_date)
 }
 
-# get all unique bookshelves (because Date.Read data is bad)
+# # get all unique bookshelves (because Date.Read data is bad)
+# # paste together all bookshelves
+# all_bookshelves <- as.vector(unique(all_books$Bookshelves)) %>%
+#   paste(sep = ",", collapse = " ")
+# all_bookshelves <- gsub(" ", ",", all_bookshelves)
+# #strsplit
+# all_bookshelves <- strsplit(all_bookshelves, ",")
+# # get unique
+# all_bookshelves <- unique(all_bookshelves[[1]])
 
+# get books shelved for a specific year
+all_books[grep("2018", all_books$Bookshelves),] %>% 
+  ggplot() + geom_bar(aes(x = gender))
