@@ -94,4 +94,13 @@ extract_time_period <- function(data, start_date, end_date) {
 
 # get books shelved for a specific year
 all_books[grep("2018", all_books$Bookshelves),] %>% 
-  ggplot() + geom_bar(aes(x = gender))
+  ggplot() + geom_bar(aes(x = gender, fill = gender)) + 
+  theme_minimal()
+
+# percent instead of count
+all_books[grep("2018", all_books$Bookshelves),] %>% 
+  ggplot() + geom_bar(aes(x = gender, y = ..prop.., group = 1, fill = factor(..x..))) + 
+  theme_minimal() + 
+  theme(legend.position = "none") + 
+  ylab("Percent of books") + 
+  xlab("Author gender")

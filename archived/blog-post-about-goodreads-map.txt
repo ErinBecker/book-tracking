@@ -1,0 +1,115 @@
+https://www.google.com/search?q=google+books+api&oq=google+books+api&aqs=chrome..69i57j0l7.2076j0j7&sourceid=chrome&ie=UTF-8
+
+https://www.google.com/search?q=google+books+daniel+dennett&oq=google+books+daniel+dennett&aqs=chrome..69i57j69i64.5330j0j7&sourceid=chrome&ie=UTF-8
+
+https://books.google.com/books/about/Consciousness_Explained.html?id=d2P_QS6AwgoC
+
+https://developers.google.com/books/docs/v1/using
+
+https://www.google.com/search?q=tool+to+pull+information+from+wikipedia+people+articles&oq=tool+to+pull+information+from+wikipedia+people+articles&aqs=chrome..69i57.9573j0j7&sourceid=chrome&ie=UTF-8
+
+https://www.google.com/search?ei=6kb4Xb3UJobS-gTyqZrYBQ&q=wikipedia+articles+on+people&oq=wikipedia+articles+on+people&gs_l=psy-ab.3...10839.14686..15253...0.4..0.119.2338.26j2......0....1..gws-wiz.......0i71j0i273j0i131j0j0i67j0i22i30j33i22i29i30j33i160.IlcAJMWT41g&ved=0ahUKEwi98ebA2rvmAhUGqZ4KHfKUBlsQ4dUDCAs&uact=5
+
+https://www.google.com/search?q=goodreads+author+nationality&oq=goodreads+author+nationality&aqs=chrome..69i57j69i64j69i60l3.4593j0j7&sourceid=chrome&ie=UTF-8
+
+https://www.google.com/search?q=goodreads+dataset&oq=goodreads+data&aqs=chrome.0.0j69i57j0l5j69i60.2609j0j9&sourceid=chrome&ie=UTF-8
+
+https://www.kaggle.com/jealousleopard/goodreadsbooks
+
+https://www.google.com/search?ei=Xkf4XZrDFJDT-gSZoa2wAw&q=lookup+nationality&oq=lookup+nationality&gs_l=psy-ab.3..0i22i30l6.29577.31990..32189...0.4..0.100.1519.17j1......0....1..gws-wiz.......0i71j0i273j0j0i131j0i67j0i13j0i13i30j0i8i13i30.WF_0xziIewM&ved=0ahUKEwia6vz32rvmAhWQqZ4KHZlQCzYQ4dUDCAs&uact=5
+
+https://en.wikipedia.org/wiki/Category:Lists_of_writers_by_nationality
+
+https://www.google.com/search?ei=f0f4XcnCJYTI-gTQzLGIDQ&q=lookup+nationality+of+authors&oq=lookup+nationality+of+authors&gs_l=psy-ab.3..33i160.4747.5786..5956...0.2..0.109.1003.9j2......0....1..gws-wiz.......0i71j0i22i30j33i22i29i30.u0u4VqKyRso&ved=0ahUKEwiJ_uuH27vmAhUEpJ4KHVBmDNEQ4dUDCAs&uact=5
+
+https://www.google.com/search?q=google+api&oq=google+api&aqs=chrome..69i57j0l5j69i60l2.1550j0j9&sourceid=chrome&ie=UTF-8
+
+https://www.google.com/search?q=google+books&oq=google+books&aqs=chrome..69i57j69i59l2j0l4j69i60.2127j0j7&sourceid=chrome&ie=UTF-8
+
+https://developers.google.com/apis-explorer
+
+https://developers.google.com/apps-script/reference/forms/form-response
+
+https://www.google.com/search?q=return+google+answers+programmatically&oq=return+google+answers+programmatically&aqs=chrome..69i57.5319j0j4&sourceid=chrome&ie=UTF-8
+
+https://www.google.com/search?ei=kUj4XfeYDtOU-gTCtKrIAw&q=return+google+results+programmatically&oq=return+google+results+program&gs_l=psy-ab.3.0.33i22i29i30.9992.11737..12774...0.3..0.234.1571.9j5j1......0....1..gws-wiz.......0i71j0i22i30.4LZjOv6cghI
+
+https://stackoverflow.com/questions/5526431/retrieve-google-results-programmatically
+
+https://developers.google.com/custom-search/v1/overview?csw=1
+
+https://developers.google.com/custom-search/docs/structured_search
+
+https://developers.google.com/custom-search/docs/tutorial/introduction
+
+https://developers.google.com/custom-search/docs/tutorial/creatingcse
+
+https://developers.google.com/custom-search/docs/tutorial/implementingsearchbox
+
+https://developers.google.com/custom-search/docs/tutorial/autocomplete
+
+https://developers.google.com/custom-search/docs/tutorial/customizingresults
+
+https://developers.google.com/custom-search/docs/element#supported_attributes
+
+https://www.google.com/search?q=data-tts%3D%22answers%22&oq=data-tts%3D%22answers%22&aqs=chrome..69i57.9158j0j7&sourceid=chrome&ie=UTF-8
+
+https://www.google.com/search?ei=_En4XcjAEpHr-gS42KSYDg&q=%22data-tts%3D%22answers%22%22&oq=%22data-tts%3D%22answers%22%22&gs_l=psy-ab.3...7367.8711..8894...0.2..0.103.197.1j1......0....1..gws-wiz.......0i71.gIe5_T_39jM&ved=0ahUKEwjIrri33bvmAhWRtZ4KHTgsCeMQ4dUDCAs&uact=5
+
+https://stackoverflow.com/questions/31798009/is-there-an-api-for-the-google-answer-boxes
+
+https://stackoverflow.com/questions/42808534/how-to-get-googles-fast-answer-box-text
+
+https://serpapi.com/users/welcome
+
+https://serpapi.com/direct-answer-box-api
+
+https://www.google.com/search?q=google+answer+boxes+api&oq=google+answer+boxes+api&aqs=chrome..69i57j0j69i64j69i60.4180j0j4&sourceid=chrome&ie=UTF-8
+
+https://geekflare.com/serp-api/
+
+https://zenserp.com/
+
+https://www.google.com/search?q=free+serp+api&oq=free+serp+api&aqs=chrome..69i57.2468j0j4&sourceid=chrome&ie=UTF-8
+
+https://serpstack.com/
+
+https://serpstack.com/product
+
+https://serpstack.com/signup/free
+
+https://www.google.com/search?q=R+serp+api&oq=R+serp+api&aqs=chrome..69i57j69i64l3j69i60l3.3648j0j7&sourceid=chrome&ie=UTF-8
+
+https://www.google.com/search?ei=gU34XeTXGsb3-gTQ0pvYDA&q=r+package+for+api+request&oq=r+package+for+api+request&gs_l=psy-ab.3..33i160j33i299l2.3943.10438..10623...2.4..0.103.2212.26j1......0....1..gws-wiz.......0i71j0i67j0i273j0i131j0j0i131i67j0i22i30j33i22i29i30.7C_20WmK77w&ved=0ahUKEwiknJHl4LvmAhXGu54KHVDpBssQ4dUDCAs&uact=5
+
+https://cran.r-project.org/web/packages/httr/vignettes/api-packages.html
+
+https://www.google.com/search?q=serpstack+in+r&oq=serpstack+in+r&aqs=chrome..69i57j33.4457j0j7&sourceid=chrome&ie=UTF-8
+
+https://www.google.com/search?ei=JlD4Xf-WJLTO0PEPsPOUuAc&q=serpstack+in+r+programming&oq=serpstack+in+r+programming&gs_l=psy-ab.3..33i299.10071.11630..11748...0.0..0.114.1410.8j6......0....1..gws-wiz.......33i160.bvtAIpXTXlQ&ved=0ahUKEwj_wYOo47vmAhU0JzQIHbA5BXcQ4dUDCAs&uact=5
+
+https://r4ds.had.co.nz/workflow-scripts.html
+
+https://www.google.com/search?ei=M1D4Xfr3E56w0PEPxtaNgAI&q=serpstack+in+%22r+script%22&oq=serpstack+in+%22r+script%22&gs_l=psy-ab.3..33i160l2j33i299.4691.8824..9033...0.0..0.106.1095.9j3......0....1..gws-wiz.tQGRd8oT2_A&ved=0ahUKEwi63Yyu47vmAhUeGDQIHUZrAyAQ4dUDCAs&uact=5
+
+https://serpstack.com/documentation
+
+http://api.serpstack.com/search?access_key=bc88a016231ab5b6f44fffe8fef4360a&query=mcdonalds
+
+https://serpstack.com/quickstart
+
+https://rdrr.io/cran/httr/man/content.html
+
+https://www.google.com/search?q=extract+data+from+httr+get&oq=extract+data+from+httr+get&aqs=chrome..69i57.7698j1j7&sourceid=chrome&ie=UTF-8
+
+https://cran.r-project.org/web/packages/httr/vignettes/quickstart.html
+
+https://www.google.com/search?q=r+replace+space+with&oq=r+replace+space+with+&aqs=chrome..69i57j0l7.6208j0j7&sourceid=chrome&ie=UTF-8
+
+--------------
+
+"free SERP API"
+"open source SERP API"<!DOCTYPE html><html itemscope="" itemtype="http://schema.org/WebPage" lang="en"><head><meta content="Search the world's information, including webpages, images, videos and more. Google has many special features to help you find exactly what you're looking for." name="description"><meta content="noodp" name="robots"><meta content="text/html; charset=UTF-8" http-equiv="Content-Type"><meta content="/images/branding/googleg/1x/googleg_standard_color_128dp.png" itemprop="image"><title>Google</title><script nonce="kOHuxdXUvu2Btgfb2BLIzQ==">(function(){window.google={kEI:'h1f9XbG1DJb4-gT4poCoDg',kEXPI:'0,1353746,5663,731,223,755,2901,1071,377,207,467,2488,249,10,713,338,175,352,12,925,51,143,35,3,278,4,60,315,375,52,9,199,10,460,133,409851,719024,143,1197730,419,38,329080,1294,12383,4855,32692,15247,867,28684,364,3319,5505,8384,1325,374,3159,1362,4325,4966,773,2256,4738,3119,4523,1672,1719,1808,1976,2044,5766,1,3142,5297,2054,919,874,1217,2975,2736,1558,2136,1142,3912,3538,2094,621,2882,21,317,235,2938,975,1,369,2777,520,399,992,1285,8,3763,612,14,1279,1042,1170,202,37,291,149,1103,840,517,1466,8,49,156,663,3438,260,52,1135,1,3,2063,606,1839,184,595,1325,377,686,1261,747,429,44,989,113,328,1284,16,84,417,2426,1639,607,474,1339,29,719,1039,3094,133,773,1548,524,7,728,592,1574,3173,221,1276,69,3,6510,299,1945,588,257,215,133,234,59,982,1041,2459,273,1450,965,842,1228,248,1617,1382,1246,26,1001,653,481,809,99,2,315,118,1222,374,1160,366,127,1688,59,258,265,361,1154,10,275,2,54,95,507,78,458,1485,523,10,46,87,2,272,1092,129,820,849,60,1,2,1,112,10,2,17,145,138,333,109,373,701,258,497,26,200,401,410,189,6,15,69,207,425,53,90,1,257,8,61,5,242,141,674,25,86,674,22,81,39,1343,259,5859138,1805893,4194851,2801171,549,333,444,1,2,80,1,900,896,1,8,1,2,2551,1,889,59,736,2,561,1,4265,1,1,1,1,137,1,783,4,6,9,77,8,1,14,5,2,3,3,1,3,5,3,3,3,3,3,1,3,3,3,3,25,11,5,1,6,4,2,1,5,1,3,6,2,2,4,8,2,10,12,2,2,2,3,2,6,6,2,25,16,7,4,3365796,15538754,5059907',authuser:0,kscs:'c9c918f0_h1f9XbG1DJb4-gT4poCoDg',kGL:'US',kBL:'v77x'};google.sn='webhp';google.kHL='en';google.jsfs='Ffpdje';})();(function(){google.lc=[];google.li=0;google.getEI=function(a){for(var b;a&&(!a.getAttribute||!(b=a.getAttribute("eid")));)a=a.parentNode;return b||google.kEI};google.getLEI=function(a){for(var b=null;a&&(!a.getAttribute||!(b=a.getAttribute("leid")));)a=a.parentNode;return b};google.https=function(){return"https:"==window.location.protocol};google.ml=function(){return null};google.time=function(){return(new Date).getTime()};google.log=function(a,b,e,c,g){if(a=google.logUrl(a,b,e,c,g)){b=new Image;var d=google.lc,f=google.li;d[f]=b;b.onerror=b.onload=b.onabort=function(){delete d[f]};google.vel&&google.vel.lu&&google.vel.lu(a);b.src=a;google.li=f+1}};google.logUrl=function(a,b,e,c,g){var d="",f=google.ls||"";e||-1!=b.search("&ei=")||(d="&ei="+google.getEI(c),-1==b.search("&lei=")&&(c=google.getLEI(c))&&(d+="&lei="+c));c="";!e&&google.cshid&&-1==b.search("&cshid=")&&"slh"!=a&&(c="&cshid="+google.cshid);a=e||"/"+(g||"gen_204")+"?atyp=i&ct="+a+"&cad="+b+d+f+"&zx="+google.time()+c;/^http:/i.test(a)&&google.https()&&(google.ml(Error("a"),!1,{src:a,glmm:1}),a="");return a};}).call(this);(function(){google.y={};google.x=function(a,b){if(a)var c=a.id;else{do c=Math.random();while(google.y[c])}google.y[c]=[a,b];return!1};google.lm=[];google.plm=function(a){google.lm.push.apply(google.lm,a)};google.lq=[];google.load=function(a,b,c){google.lq.push([[a],b,c])};google.loadAll=function(a,b){google.lq.push([a,b])};}).call(this);google.f={};(function(){document.documentElement.addEventListener("submit",function(b){var a;if(a=b.target){var c=a.getAttribute("data-submitfalse");a="1"==c||"q"==c&&!a.elements.q.value?!0:!1}else a=!1;a&&(b.preventDefault(),b.stopPropagation())},!0);}).call(this);var a=window.location,b=a.href.indexOf("#");if(0<=b){var c=a.href.substring(b+1);/(^|&)q=/.test(c)&&-1==c.indexOf("#")&&a.replace("/search?"+c.replace(/(^|&)fp=[^&]*/g,"")+"&cad=h")};</script><style>#gbar,#guser{font-size:13px;padding-top:1px !important;}#gbar{height:22px}#guser{padding-bottom:7px !important;text-align:right}.gbh,.gbd{border-top:1px solid #c9d7f1;font-size:1px}.gbh{height:0;position:absolute;top:24px;width:100%}@media all{.gb1{height:22px;margin-right:.5em;vertical-align:top}#gbar{float:left}}a.gb1,a.gb4{text-decoration:underline !important}a.gb1,a.gb4{color:#00c !important}.gbi .gb4{color:#dd8e27 !important}.gbf .gb4{color:#900 !important}</style><style>body,td,a,p,.h{font-family:arial,sans-serif}body{margin:0;overflow-y:scroll}#gog{padding:3px 8px 0}td{line-height:.8em}.gac_m td{line-height:17px}form{margin-bottom:20px}.h{color:#36c}.q{color:#00c}.ts td{padding:0}.ts{border-collapse:collapse}em{font-weight:bold;font-style:normal}.lst{height:25px;width:496px}.gsfi,.lst{font:18px arial,sans-serif}.gsfs{font:17px arial,sans-serif}.ds{display:inline-box;display:inline-block;margin:3px 0 4px;margin-left:4px}input{font-family:inherit}a.gb1,a.gb2,a.gb3,a.gb4{color:#11c !important}body{background:#fff;color:black}a{color:#11c;text-decoration:none}a:hover,a:active{text-decoration:underline}.fl a{color:#36c}a:visited{color:#551a8b}a.gb1,a.gb4{text-decoration:underline}a.gb3:hover{text-decoration:none}#ghead a.gb2:hover{color:#fff !important}.sblc{padding-top:5px}.sblc a{display:block;margin:2px 0;margin-left:13px;font-size:11px}.lsbb{background:#eee;border:solid 1px;border-color:#ccc #999 #999 #ccc;height:30px}.lsbb{display:block}.ftl,#fll a{display:inline-block;margin:0 12px}.lsb{background:url(/images/nav_logo229.png) 0 -261px repeat-x;border:none;color:#000;cursor:pointer;height:30px;margin:0;outline:0;font:15px arial,sans-serif;vertical-align:top}.lsb:active{background:#ccc}.lst:focus{outline:none}</style><script nonce="kOHuxdXUvu2Btgfb2BLIzQ=="></script></head><body bgcolor="#fff"><script nonce="kOHuxdXUvu2Btgfb2BLIzQ==">(function(){var src='/images/nav_logo229.png';var iesg=false;document.body.onload = function(){window.n && window.n();if (document.images){new Image().src=src;}if (!iesg){document.f&&document.f.q.focus();document.gbqf&&document.gbqf.q.focus();}}})();</script><div id="mngb"> <div id="gbar"><nobr><b class="gb1">Search</b> <a class="gb1" href="http://www.google.com/imghp?hl=en&amp;tab=wi">Images</a> <a class="gb1" href="http://maps.google.com/maps?hl=en&amp;tab=wl">Maps</a> <a class="gb1" href="https://play.google.com/?hl=en&amp;tab=w8">Play</a> <a class="gb1" href="http://www.youtube.com/?gl=US&amp;tab=w1">YouTube</a> <a class="gb1" href="http://news.google.com/nwshp?hl=en&amp;tab=wn">News</a> <a class="gb1" href="https://mail.google.com/mail/?tab=wm">Gmail</a> <a class="gb1" href="https://drive.google.com/?tab=wo">Drive</a> <a class="gb1" style="text-decoration:none" href="https://www.google.com/intl/en/about/products?tab=wh"><u>More</u> »</a></nobr></div><div id="guser" width="100%"><nobr><span id="gbn" class="gbi"></span><span id="gbf" class="gbf"></span><span id="gbe"></span><a href="http://www.google.com/history/optout?hl=en" class="gb4">Web History</a> | <a href="/preferences?hl=en" class="gb4">Settings</a> | <a target="_top" id="gb_70" href="https://accounts.google.com/ServiceLogin?hl=en&amp;passive=true&amp;continue=http://www.google.com/webhp" class="gb4">Sign in</a></nobr></div><div class="gbh" style="left:0"></div><div class="gbh" style="right:0"></div> </div><center><br clear="all" id="lgpd"><div id="lga"><img alt="Google" height="92" src="/images/branding/googlelogo/1x/googlelogo_white_background_color_272x92dp.png" style="padding:28px 0 14px" width="272" id="hplogo"><br><br></div><form action="/search" name="f"><table cellpadding="0" cellspacing="0"><tr valign="top"><td width="25%"> </td><td align="center" nowrap><input name="ie" value="ISO-8859-1" type="hidden"><input value="en" name="hl" type="hidden"><input name="source" type="hidden" value="hp"><input name="biw" type="hidden"><input name="bih" type="hidden"><div class="ds" style="height:32px;margin:4px 0"><input class="lst" style="color:#000;margin:0;padding:5px 8px 0 6px;vertical-align:top" autocomplete="off" value="" title="Google Search" maxlength="2048" name="q" size="57"></div><br style="line-height:0"><span class="ds"><span class="lsbb"><input class="lsb" value="Google Search" name="btnG" type="submit"></span></span><span class="ds"><span class="lsbb"><input class="lsb" id="tsuid1" value="I'm Feeling Lucky" name="btnI" type="submit"><script nonce="kOHuxdXUvu2Btgfb2BLIzQ==">(function(){var id='tsuid1';document.getElementById(id).onclick = function(){if (this.form.q.value){this.checked = 1;if (this.form.iflsig)this.form.iflsig.disabled = false;}else top.location='/doodles/';};})();</script><input value="AAP1E1EAAAAAXf1ll5LPTCGZEKkWBUDSx6-DHQkEg9g1" name="iflsig" type="hidden"></span></span></td><td class="fl sblc" align="left" nowrap width="25%"><a href="/advanced_search?hl=en&amp;authuser=0">Advanced search</a><a href="/language_tools?hl=en&amp;authuser=0">Language tools</a></td></tr></table><input id="gbv" name="gbv" type="hidden" value="1"><script nonce="kOHuxdXUvu2Btgfb2BLIzQ==">(function(){var a,b="1";if(document&&document.getElementById)if("undefined"!=typeof XMLHttpRequest)b="2";else if("undefined"!=typeof ActiveXObject){var c,d,e=["MSXML2.XMLHTTP.6.0","MSXML2.XMLHTTP.3.0","MSXML2.XMLHTTP","Microsoft.XMLHTTP"];for(c=0;d=e[c++];)try{new ActiveXObject(d),b="2"}catch(h){}}a=b;if("2"==a&&-1==location.search.indexOf("&gbv=2")){var f=google.gbvu,g=document.getElementById("gbv");g&&(g.value=a);f&&window.setTimeout(function(){location.href=f},0)};}).call(this);</script></form><div id="gac_scont"></div><div style="font-size:83%;min-height:3.5em"><br></div><span id="footer"><div style="font-size:10pt"><div style="margin:19px auto;text-align:center" id="fll"><a href="/intl/en/ads/">Advertising Programs</a><a href="/services/">Business Solutions</a><a href="/intl/en/about.html">About Google</a></div></div><p style="color:#767676;font-size:8pt">© 2019 - <a href="/intl/en/policies/privacy/">Privacy</a> - <a href="/intl/en/policies/terms/">Terms</a></p></span></center><script nonce="kOHuxdXUvu2Btgfb2BLIzQ==">(function(){window.google.cdo={height:0,width:0};(function(){var a=window.innerWidth,b=window.innerHeight;if(!a||!b){var c=window.document,d="CSS1Compat"==c.compatMode?c.documentElement:c.body;a=d.clientWidth;b=d.clientHeight}a&&b&&(a!=google.cdo.width||b!=google.cdo.height)&&google.log("","","/client_204?&atyp=i&biw="+a+"&bih="+b+"&ei="+google.kEI);}).call(this);})();(function(){var u='/xjs/_/js/k\x3dxjs.hp.en_US.PXQ6TDUi4mU.O/m\x3dsb_he,d/am\x3dAAMCbAQ/d\x3d1/rs\x3dACT90oHRqO4y1Tn0VIAvndn1UG1WhY4Dyg';setTimeout(function(){var b=document;var a="SCRIPT";"application/xhtml+xml"===b.contentType&&(a=a.toLowerCase());a=b.createElement(a);a.src=u;google.timers&&google.timers.load&&google.tick&&google.tick("load","xjsls");document.body.appendChild(a)},0);})();(function(){window.google.xjsu='/xjs/_/js/k\x3dxjs.hp.en_US.PXQ6TDUi4mU.O/m\x3dsb_he,d/am\x3dAAMCbAQ/d\x3d1/rs\x3dACT90oHRqO4y1Tn0VIAvndn1UG1WhY4Dyg';})();function _DumpException(e){throw e;}function _F_installCss(c){}(function(){google.spjs=false;google.snet=true;google.em=[];google.emw=false;})();(function(){var pmc='{\x22d\x22:{},\x22sb_he\x22:{\x22agen\x22:true,\x22cgen\x22:true,\x22client\x22:\x22heirloom-hp\x22,\x22dh\x22:true,\x22dhqt\x22:true,\x22ds\x22:\x22\x22,\x22ffql\x22:\x22en\x22,\x22fl\x22:true,\x22host\x22:\x22google.com\x22,\x22isbh\x22:28,\x22jsonp\x22:true,\x22msgs\x22:{\x22cibl\x22:\x22Clear Search\x22,\x22dym\x22:\x22Did you mean:\x22,\x22lcky\x22:\x22I\\u0026#39;m Feeling Lucky\x22,\x22lml\x22:\x22Learn more\x22,\x22oskt\x22:\x22Input tools\x22,\x22psrc\x22:\x22This search was removed from your \\u003Ca href\x3d\\\x22/history\\\x22\\u003EWeb History\\u003C/a\\u003E\x22,\x22psrl\x22:\x22Remove\x22,\x22sbit\x22:\x22Search by image\x22,\x22srch\x22:\x22Google Search\x22},\x22ovr\x22:{},\x22pq\x22:\x22\x22,\x22refpd\x22:true,\x22rfs\x22:[],\x22sbpl\x22:24,\x22sbpr\x22:24,\x22scd\x22:10,\x22sce\x22:5,\x22stok\x22:\x22U3bldqHOxbwqDxkRo8h8zpfSUO0\x22,\x22uhde\x22:false}}';google.pmc=JSON.parse(pmc);})();</script></body></html>
+
+
+https://github.com/serpapi/google-search-results-python/blob/master/README.md
